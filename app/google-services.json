@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21625979636",
+    "firebase_url": "https://internetbooklist.firebaseio.com",
+    "project_id": "internetbooklist",
+    "storage_bucket": "internetbooklist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21625979636:android:003bde5a36370ecf",
+        "android_client_info": {
+          "package_name": "com.example.anunay.internetbooklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21625979636-pgps2p6sdgsebfme8ibnkvlljn8i8pbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anunay.internetbooklist",
+            "certificate_hash": "f6e86ec0861f6a6595a7481cdef9f1a53ae55602"
+          }
+        },
+        {
+          "client_id": "21625979636-26ok936vie61ikebrv9fcqhigsbu5tve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUeJxRuDMuFlZ5id-NljCHC3oZyygv1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21625979636-26ok936vie61ikebrv9fcqhigsbu5tve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
